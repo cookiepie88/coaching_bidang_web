@@ -6,22 +6,22 @@
 .navbar{
     display: flex;
     padding-left : 15px;
-    padding-right : 15 px;
-    padding-top : 5 px;
+    padding-right : 15px;
+    padding-top : 5px;
     padding-bottom : 5px;
-    background-color : blue;
+    background-color : pink;
 }
 
 .menu{
     margin-left: auto;
     display: flex;
-    gap : 25 px;
+    gap : 25px;
     margin-top:auto;
     margin-bottom: auto;
 }
 
 .nav-link{
     text-decoration: none;
-    color: blue;
+    color: rgb(106, 75, 75);
 
 }
