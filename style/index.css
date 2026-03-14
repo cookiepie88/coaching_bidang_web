@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    padding-left : 15px;
+    padding-right : 15 px;
+    padding-top : 5 px;
+    padding-bottom : 5px;
+    background-color : blue;
+}
+
+.menu{
+    margin-left: auto;
+    display: flex;
+    gap : 25 px;
+    margin-top:auto;
+    margin-bottom: auto;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: blue;
+
+}
